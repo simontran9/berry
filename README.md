@@ -1,6 +1,6 @@
 <h1><img src="docs/logo.svg" width="50px"> berry</h1>
 
-A C header-only generic containers library
+C header-only generic containers library
 
 ## Motivation
 
