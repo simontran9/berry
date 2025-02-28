@@ -34,6 +34,10 @@ By rule 5 of Rob Pike's 5 Rules of Programming:
 
 **Dev dependency**
 - [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
+- [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/)
+- [Valgrind](https://valgrind.org/)
+- [perf](https://www.swift.org/documentation/server/guides/linux-perf.html)
+- [hyperfine](https://github.com/sharkdp/hyperfine)
 
 ### Static library installation
 
