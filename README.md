@@ -27,9 +27,12 @@ By rule 5 of Rob Pike's 5 Rules of Programming:
 
 ### Prerequisite dependencies
 
+**Core dependencies**
 - [C Compiler (C99 or later)](https://gcc.gnu.org/)
 - [GNU Make](https://www.gnu.org/software/make/)
 - [jemalloc](https://jemalloc.net/)
+
+**Dev dependency**
 - [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
 
 ### Static library installation
