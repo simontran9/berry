@@ -43,7 +43,7 @@ make
 
 ## Usage
 
-#### General structure
+#### General usage
 
 ```
 ```
