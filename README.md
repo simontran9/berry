@@ -32,7 +32,7 @@ By rule 5 of Rob Pike's 5 Rules of Programming:
 - [GNU Make](https://www.gnu.org/software/make/)
 - [jemalloc](https://jemalloc.net/)
 
-**Dev dependency**
+**Dev dependencies**
 - [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
 - [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/)
 - [Valgrind](https://valgrind.org/)
