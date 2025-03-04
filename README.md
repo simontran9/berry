@@ -63,7 +63,7 @@ make
 See `docs/api.md` to learn more about the available containers and its methods.
 
 > [!WARNING]
-> I have not explicitly checked if you can use the library via the FFI, given that it is heavily designed around C macros, which don't play well with the FFI.
+> You will probably encounter issues if you're going use this library through the FFI
 
 ## Benchmarks
 
